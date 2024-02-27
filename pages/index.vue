@@ -6,7 +6,7 @@
                     Simple. Fast. Reliable.
                     <br />Content delivery at its finest.
                 </h1>
-                    This is a test application vesion 2
+                    This is a test application vesion 4
                 <h2>
                     cdnjs is a free and open-source CDN service trusted by over <b>12.5% of all websites</b>, serving
                     over <b>200 billion requests each month</b>, powered by Cloudflare.
